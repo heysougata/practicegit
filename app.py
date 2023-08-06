@@ -1,9 +1,9 @@
-def sum(a, b):
-    return a + b
+def division(a, b):
+    return a / b
 
 if __name__ == "__main__":
+    print(division(10, 2))
+    
+    print(division(10, 0))
 
-    print(sum(1, 2))
-
-def mul(a, b):
-    return a * b
+# it is important division code
